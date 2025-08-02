@@ -1,0 +1,11 @@
+- Stores all your app’s data (users, courses, videos, etc.).
+- Common types:
+    - [[MongoDB]] (NoSQL, flexible, great with JS/Node)
+        - 🔗 [MongoDB Docs](https://www.mongodb.com/docs/)
+        - 🔗 Use **MongoDB Atlas** for cloud-hosted DB (free tier available)
+    - [[PostgreSQL]] (SQL, structured, great for relationships)
+
+- [[MongoDB]] – NoSQL database. Stores data in JSON-like format (very beginner friendly).
+- [[Mongoose]] – Helps you connect and work with MongoDB in Node.js easily.
+- [[PostgreSQL]] or [[MySQL]] – SQL databases (used when data needs to be super structured).
+- [[Prisma]] or [[Sequelize]] – Tools that help you work with SQL databases using JavaScript.

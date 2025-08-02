@@ -1,0 +1,7 @@
+- **Authentication** → Who are you? (Login)
+- **Authorization** → What can you do? (Admin or student?)
+- Use:
+    - **JWT (JSON Web Tokens)** – for login tokens
+    - **bcrypt** – to hash passwords
+    - 🔗 JWT Guide
+    - 🔗 [bcrypt.js GitHub](https://github.com/dcodeIO/bcrypt.js)

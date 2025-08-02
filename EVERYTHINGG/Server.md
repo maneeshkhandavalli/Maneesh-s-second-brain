@@ -1,0 +1,6 @@
+- A server is like a waiter at a restaurant, it takes orders (requests) and brings food (responses).
+- You’ll write server logic using:
+    - [[Node JS]] (if you're using JavaScript)
+    - [[Express JS]] (framework that makes Node easier)
+- 🔗 [Node.js Docs](https://nodejs.org/en) 
+- 🔗 [Express.js Docs](https://expressjs.com/)

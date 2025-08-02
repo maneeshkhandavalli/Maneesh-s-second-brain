@@ -1,0 +1,5 @@
+- It’s how your frontend talks to the backend.
+- You create routes like:
+    - `GET /courses` → show courses
+    - `POST /login` → log in user
+- You’ll use **Express** to build REST APIs.

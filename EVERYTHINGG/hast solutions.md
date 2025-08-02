@@ -1,0 +1,3 @@
+**HSAT Solutions** is an educational consultancy that works with small schools to help them offer better learning experiences. They focus on blending education with modern technology, aiming to equip students with the skills they’ll need in the real world.
+
+Their goal is simple but powerful: to help schools prepare students not just for exams, but for life beyond the classroom with tools, training, and tech and [[AI]] that makes a difference.

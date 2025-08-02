@@ -1,0 +1,3 @@
+- Use tools like [[Axios]] (frontend) to call your backend.
+- The backend handles the logic, queries the database, and sends back a response.
+- Everything usually happens using [[JSON]].
