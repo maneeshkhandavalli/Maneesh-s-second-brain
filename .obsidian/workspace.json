@@ -6,7 +6,7 @@
       {
         "id": "3b976afc6dc99cea",
         "type": "tabs",
-        "dimension": 50.54495912806539,
+        "dimension": 50.46874999999999,
         "children": [
           {
             "id": "c3e0414b72bc21ce",
@@ -14,23 +14,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. learning/Midnight labs.md",
+                "file": "All folders/Backend.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Midnight labs"
+              "title": "Backend"
+            }
+          },
+          {
+            "id": "7b3e8f60252fff90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal Work.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Personal Work"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "4b7c558bc3f81476",
+        "id": "f9c4d6c0ccd5c4e1",
         "type": "tabs",
-        "dimension": 49.4550408719346,
+        "dimension": 49.53125,
         "children": [
           {
-            "id": "7e6ddd7d4e6efd6e",
+            "id": "9f4ad86b1a3d7a46",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -185,41 +200,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c3e0414b72bc21ce",
+  "active": "ad456c619e49c39e",
   "lastOpenFiles": [
-    "EVERYTHINGG/Project LMS.md",
-    "EVERYTHINGG/Full stack application.md",
-    "1. learning/Midnight labs.md",
-    "EVERYTHINGG/Material UI.md",
-    "EVERYTHINGG/Frontend.md",
-    "EVERYTHINGG/JavaScript.md",
-    "EVERYTHINGG/CSS.md",
-    "EVERYTHINGG/HTML.md",
-    "ShadCN/Shad CN UI.md",
-    "EVERYTHINGG/Backend.md",
-    "EVERYTHINGG/React.js.md",
-    "EVERYTHINGG/JSON.md",
-    "Shad CN/UI.md",
-    "EVERYTHINGG/Wire Frames.md",
-    "EVERYTHINGG/react-router-dom.md",
+    "Maneesh-s-second-brain",
+    "Framer motion.md",
+    "Personal Work.md",
+    "().md",
+    "All folders/Backend.md",
+    "All folders/Full stack application.md",
+    "All folders/Frontend.md",
+    "All folders/Project LMS.md",
+    "Midnight labs/Midnight labs.md",
+    "Untitled.md",
+    "Midnight labs",
+    "All folders/Wire Frames.md",
+    "All folders/Material UI.md",
+    "All folders/Shad CN UI.md",
+    "All folders/react-router-dom.md",
+    "All folders/State Management.md",
+    "All folders/Routing.md",
+    "All folders/Tailwind CSS.md",
+    "1. learning/personal",
+    "EVERYTHINGG/Untitled.md",
+    "Untitled 2",
+    "Untitled 1",
+    "Maneesh-s-second-brain/ShadCN/Shad CN UI.md",
+    "Maneesh-s-second-brain/ShadCN",
+    "Maneesh-s-second-brain/EVERYTHINGG/Wire Frames.md",
+    "Maneesh-s-second-brain/EVERYTHINGG/Security.md",
+    "Maneesh-s-second-brain/EVERYTHINGG/Tailwind CSS.md",
+    "Maneesh-s-second-brain/EVERYTHINGG/Team Members.md",
+    "Maneesh-s-second-brain/EVERYTHINGG/State Management.md",
+    "Maneesh-s-second-brain/EVERYTHINGG/Sequelize.md",
+    "Maneesh-s-second-brain/EVERYTHINGG/Server.md",
+    "Maneesh-s-second-brain/EVERYTHINGG/Midnight labs logo.png",
+    "Maneesh-s-second-brain/EVERYTHINGG",
     "ShadCN",
     "Shad CN",
-    "EVERYTHINGG/data.md",
-    "EVERYTHINGG/Node JS.md",
-    "EVERYTHINGG/Express JS.md",
-    "EVERYTHINGG/REST APIs.md",
-    "EVERYTHINGG/Middleware.md",
-    "EVERYTHINGG/Sending & Receiving Data.md",
-    "EVERYTHINGG/Security.md",
-    "EVERYTHINGG/Database.md",
-    "EVERYTHINGG/MongoDB.md",
-    "EVERYTHINGG/PostgreSQL.md",
-    "EVERYTHINGG/MySQL.md",
     "Midnight(1).png",
-    "EVERYTHINGG/Midnight labs logo.png",
-    "Remote blog",
-    "EVERYTHINGG",
-    "2. Source",
-    "1. learning"
+    "All folders/Midnight labs logo.png",
+    "Remote blog"
   ]
 }

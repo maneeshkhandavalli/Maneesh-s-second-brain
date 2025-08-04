@@ -6,17 +6,25 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "Midnight labs",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -1.1,
   "nodeSizeMultiplier": 0.997109207708779,
   "lineSizeMultiplier": 1.22094932191292,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.257316202712348,
+  "repelStrength": 4.34689507494647,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.45903464565399066,
+  "linkDistance": 309,
+  "scale": 0.9338877508136157,
   "close": true
 }
