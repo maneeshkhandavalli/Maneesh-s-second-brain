@@ -6,7 +6,7 @@
       {
         "id": "3b976afc6dc99cea",
         "type": "tabs",
-        "dimension": 60.10498687664042,
+        "dimension": 55.650060753341435,
         "children": [
           {
             "id": "ae392d17115e5563",
@@ -14,23 +14,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Promise in JS.md",
+                "file": "Fetch().md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Promise in JS"
+              "title": "Fetch()"
             }
           }
         ]
       },
       {
-        "id": "e910cdc4c5b6bbc8",
+        "id": "e1c8039b7ecda93e",
         "type": "tabs",
-        "dimension": 39.89501312335958,
+        "dimension": 44.349939246658565,
         "children": [
           {
-            "id": "4970b1d22f6dc418",
+            "id": "d513f7216b0506ca",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -185,36 +185,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4970b1d22f6dc418",
+  "active": "d513f7216b0506ca",
   "lastOpenFiles": [
-    "Promise in JS.md",
+    "Fetch().md",
     "All folders/JavaScript.md",
-    "All folders/Ternary Operators in JS.md",
-    "All folders/JS Destructuring.md",
     "All folders/Frontend.md",
     "All folders/Full stack application.md",
-    "All folders/Project LMS.md",
+    "All folders/Personal Work.md",
+    "All folders/Async and await.md",
+    "All folders/Pasted image 20250807141751.png",
+    "All folders/JSON.md",
+    "All folders/Promise in JS.md",
     "Midnight labs/Midnight labs.md",
+    "All folders/Project LMS.md",
+    "Rithikas notes/My notes.md",
+    "All folders/Backend.md",
+    "Rithikas notes",
+    "All folders/Ternary Operators in JS.md",
+    "All folders/JS Destructuring.md",
     "All folders/Pasted image 20250806145047.png",
     "All folders/JS Functions.md",
     "All folders/Arrow Functions.md",
     "All folders/JS Scopes.md",
-    "All folders/Personal Work.md",
     "All folders/strict mode.md",
     "All folders/`this` in  JS.md",
     "Arrow Fuctions.md",
     "All folders/Parameters and Return.md",
     "All folders/JS Hoisting.md",
     "All folders/MySQL.md",
-    "All folders/Backend.md",
     "All folders/React.js.md",
     "Maneesh-s-second-brain/Personal Work.md",
     "Maneesh-s-second-brain/Midnight labs/Midnight labs.md",
     "Maneesh-s-second-brain/Midnight labs",
-    "Maneesh-s-second-brain/Framer motion.md",
-    "Maneesh-s-second-brain/All folders/Wire Frames.md",
-    "Maneesh-s-second-brain/All folders/Security.md",
-    "Maneesh-s-second-brain/All folders/Tailwind CSS.md",
     "Maneesh-s-second-brain/All folders/Midnight labs logo.png",
     "Maneesh-s-second-brain/All folders",
     "Maneesh-s-second-brain",
@@ -225,7 +227,6 @@
     "Maneesh-s-second-brain/ShadCN",
     "Maneesh-s-second-brain/EVERYTHINGG/Midnight labs logo.png",
     "Maneesh-s-second-brain/EVERYTHINGG",
-    "ShadCN",
     "Midnight(1).png",
     "All folders/Midnight labs logo.png"
   ]

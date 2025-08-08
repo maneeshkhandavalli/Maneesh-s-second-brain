@@ -70,4 +70,7 @@
 4. [[JS Destructuring]] -> some pending
 5. [[Ternary Operators in JS]]
 6. [[Promise in JS]]
-7. 
+7. [[Async and await]]
+8. [[JSON]]
+9. [[Fetch()]]
+10. 
